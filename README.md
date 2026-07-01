@@ -36,6 +36,16 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+## Screenshots
+
+**Wallet connected, balance displayed, and transaction history:**
+
+![Wallet connected with balance and transaction history](screenshots/Screenshot2026-06-30155833.png)
+
+**Successful transaction with confirmation:**
+
+![Successful transaction sent](screenshots/Screenshot2026-06-30160414.png)
+
 ## Project Structure
 
 ```
